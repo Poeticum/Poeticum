@@ -1,8 +1,7 @@
-# [Scrīptōrum poēticōrum aliōrumque](https://scriptorum-poeticorum.github.io)
-
-«De escritos poéticos y otros».<br>
-«D'écrits poétiques et autres».<br>
-“Of poetic writing and others”.<br>
+# [Scrīptōrum poēticōrum](https://scriptorum-poeticorum.github.io)
+***De escritos poéticos<br>
+Of Poetic Writings<br>
+D'écrits poétiques***
 ***
 **~/autopoiesis/neurosynthesis/linguosynthesis/synthèse_conjonctive**<br>
 &gt; πάντα ῥεῖ &middot; γνῶθι σεαυτόν.<br>
@@ -10,4 +9,10 @@
 &gt; *Scrībō ergō sum. Sum ergō scrībō.*<br>
 &gt; _
 ***
-&copy; <a href="https://github.com/RobertoQSx">Roberto Q. S.</a>
+[Roberto Q. S.](https://github.com/RobertoQSx)<br>
+[Discord](https://discord.gg/wkGRwVAR55)&nbsp;|&nbsp;[Telegram](https://t.me/robertoqs)<br>
+
+Mi obra original está bajo licencia internacional [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) o posterior.<br>
+My original work is under international license [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) or later.<br>
+Mon œuvre originale est sous licence internationale [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) ou ultérieure.
+
