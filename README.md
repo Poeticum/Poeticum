@@ -1,4 +1,4 @@
-# [Poeticum](https://poeticum.github.io)
+# [Poeticum](https://poeticum.github.io) | Roberto Q. S.
 ### Poesía en prosa que escribo en español
 ### Prose poetry I write in Spanish
 ### Poésie en prose que j'écris en espagnol
