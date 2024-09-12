@@ -1,7 +1,7 @@
-# [Poeticum](https://poeticum.github.io) | Roberto Q. S.
-### Poesía en prosa que escribo en español
-### Prose poetry I write in Spanish
-### Poésie en prose que j'écris en espagnol
+# [Poēticum](https://poeticum.github.io) | Roberto Q. S.
+### Poesía en prosa que escribo en español.
+### Prose poetry I write in Spanish.
+### Poésie en prose que j'écris en espagnol.
 
 ---
 
@@ -16,6 +16,8 @@ Ce profil GitHub contient le dépôt du site web.
 URL: https://poeticum.github.io
 
 Mastodon: https://writing.exchange/@robertoqs
+
+Email: robertoqs@proton.me
 
 Discord: robertoqs
 
