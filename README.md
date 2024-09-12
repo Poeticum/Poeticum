@@ -1,7 +1,10 @@
 # [Poēticum](https://poeticum.github.io) | Roberto Q. S.
-### Poesía en prosa que escribo en español.
-### Prose poetry I write in Spanish.
-### Poésie en prose que j'écris en espagnol.
+
+**Poesía en prosa filosófica, ciencio-ficcional, surrealista. Escribo en español.**
+
+**Philosophical, science-fictional, surrealist prose poetry. I write in Spanish.**
+
+**Poésie en prose philosophique, science-fictionnelle, surréaliste. J'écris en espagnol.**
 
 ---
 
