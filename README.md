@@ -1,4 +1,4 @@
-# [Poēticum](https://poeticum.github.io) | Roberto Q. S.
+# [Poēticum](https://poeticum.org) | Roberto Q. S.
 
 **Poesía en prosa filosófica, ciencio-ficcional, surrealista. Escribo en español.**
 
@@ -16,7 +16,7 @@ Ce profil GitHub contient le dépôt du site web.
 
 ---
 
-URL: https://poeticum.github.io
+URL: https://poeticum.org
 
 Mastodon: https://writing.exchange/@robertoqs
 
