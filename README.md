@@ -1,10 +1,10 @@
 # [Poēticum](https://poeticum.org) | Roberto Q. S.
 
-**Poesía en prosa filosófica, ciencio-ficcional, surrealista. Escribo en español.**
+**Poesía en prosa filosófica, ciencio-ficcional, surrealista. Escribo en español y después traduzco.**
 
-**Philosophical, science-fictional, surrealist prose poetry. I write in Spanish.**
+**Philosophical, science-fictional, surrealist prose poetry. I write in Spanish and later translate.**
 
-**Poésie en prose philosophique, science-fictionnelle, surréaliste. J'écris en espagnol.**
+**Poésie en prose philosophique, science-fictionnelle, surréaliste. J'écris en espagnol et après je traduis.**
 
 ---
 
